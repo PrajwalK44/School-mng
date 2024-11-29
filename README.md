@@ -77,7 +77,7 @@ latitude: Latitude of the user's location.
 longitude: Longitude of the user's location.
 
 Example request:
-GET http://localhost:3000/listSchools?latitude=12.9716&longitude=77.5946
+GET http://localhost:3000/api/schools/listSchools?latitude=12.9716&longitude=77.5946
 Expected Response:
 
 [
