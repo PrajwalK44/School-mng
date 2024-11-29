@@ -1,4 +1,4 @@
-School Management API
+## School Management API
 Overview
 This project implements a set of APIs to manage school data, including functionality to add new schools and retrieve a list of schools sorted by proximity to a user-specified location. The system is built with Node.js, Express.js, and MySQL.
 
